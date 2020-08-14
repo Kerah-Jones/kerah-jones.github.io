@@ -3,8 +3,7 @@ Super excited to present to you my full-stack software engineering portfolio. Al
 
 ## Preview
 
-[![Freelancer Preview](![Screen Shot 2020-08-14 at 3 39 17 AM](https://user-images.githubusercontent.com/65182743/90228748-c542e900-dde4-11ea-96eb-a49d2d1da731.png)
-)](https://kerah-jones.github.io/)
+[![Freelancer Preview](![Screen Shot 2020-08-14 at 2 37 51 PM](https://user-images.githubusercontent.com/65182743/90282130-d834d800-de3b-11ea-89fa-b7ef68399b3f.png))
 
 **[View My Portfolio](https://kerah-jones.github.io/)**
 
